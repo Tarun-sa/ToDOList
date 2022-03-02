@@ -2,7 +2,7 @@
 Created a very beautiful TodoList which give a very good user experience.
 In this todo app user can add his todo items for a day/week.
 He can mark them as completed .The complted todo items appear as translucent with a overthrow on the text.
-The user have the facilty to select Completed,Incomplted todom items from the dropdown provided.
+The user have the facilty to select from category- Completed,Incomplted,All todom items from the dropdown provided.
 If user want he can delete any list item.
 
 Showing all the todo Items
